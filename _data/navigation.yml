@@ -5,8 +5,8 @@ main:
   - title: "Experience"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Publication"
-    url: /year-archive/
+    url: /about/
   - title: "CV"
-    url: /collection-archive/
+    url: /assets/pdf/cv.pdf
   # - title: "Sitemap"
   #   url: /sitemap/

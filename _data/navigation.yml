@@ -5,7 +5,7 @@ main:
   - title: "Experience"
     url: /experience/
   - title: "Publication"
-    url: /about/
+    url: https://scholar.google.com/citations?user=IzPwHCgAAAAJ&hl=en&oi=ao
   - title: "CV"
     url: /assets/pdf/cv.pdf
   # - title: "Sitemap"

@@ -7,6 +7,10 @@ main:
   - title: "Publication"
     url: /about/
   - title: "CV"
+<<<<<<< HEAD
     url: /assets/pdf/cv.pdf
+=======
+    url: /year-archive/
+>>>>>>> 3a6034609ebdfc3ba5e860f770b447ebcbc6d52b
   # - title: "Sitemap"
   #   url: /sitemap/
